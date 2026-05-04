@@ -39,7 +39,7 @@ The final dashboard summarizes the analysis through KPI cards, pivot-based chart
   
 ## Dashboard Preview
 
-<img src="Dashboard/Dashboard.png" alt="Amazon Bestseller Books Analysis Dashboard" width="1000"/>
+<img src="Dashboard.png" alt="Amazon Bestseller Books Analysis Dashboard" width="1000"/>
 
 ## Dashboard Features
 
