@@ -71,7 +71,7 @@ The final dashboard summarizes the analysis through KPI cards, pivot-based chart
 
 ### 1. Paperback is the dominant book format
 
-Paperback is the leading format with 106 books, representing 50.5% of the 210-book dataset. Hardcover is the second-largest format with 84 books, showing that physical formats remain important in bestseller categories.
+**Paperback** is the **leading format with 106 books**, representing 50.5% of the 210-book dataset. Hardcover is the second-largest format with 84 books, showing that physical formats remain important in bestseller categories.
 
 ### 2. Format pricing shows clear positioning
 
@@ -79,15 +79,15 @@ Paperback has an average price of $11.84, while Hardcover averages $13.10. Imita
 
 ### 3. Fiction and Action & Adventure leads genre demand
 
-Fiction & Action & Adventure is the strongest genre with 55 books, contributing 26.2% of the dataset. Reading & Writing follows with 37 books, making these two categories the strongest demand areas.
+**Fiction & Action & Adventure is the strongest genre with 55 books**, contributing 26.2% of the dataset. Reading & Writing follows with 37 books, making these two categories the strongest demand areas.
 
 ### 4. Author engagement is highly concentrated
 
-Freida McFadden leads with 2,808,693 reviews, followed by Sarah J. Maas, Colleen Hoover, and Rebecca Yarros. The top four authors together generate approximately 8.22 million reviews, showing strong author-brand influence.
+**Freida McFadden leads with 2,808,693 reviews**, followed by Sarah J. Maas, Colleen Hoover, and Rebecca Yarros. The top four authors together generate approximately 8.22 million reviews, showing strong author-brand influence.
 
 ### 5. Reader sentiment is strongly positive
 
-The average rating is 4.7. The rating band distribution shows 127 books in the High category, 68 in Medium, and 15 in Low, indicating that bestseller titles are strongly skewed toward higher-rated books.
+The **average rating is 4.7**. The rating band distribution shows 127 books in the High category, 68 in Medium, and 15 in Low, indicating that bestseller titles are strongly skewed toward higher-rated books.
 
 ## Business Recommendations
 
